@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Ганеша Шаранам</string>
+		<key>duration</key>
+		<integer>538</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Натарадж</string>
+		<key>duration</key>
+		<integer>602</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Сурья Намаскар</string>
+		<key>duration</key>
+		<integer>991</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Адитья Хридайя стотра</string>
+		<key>duration</key>
+		<integer>596</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Сурья Упасана</string>
+		<key>duration</key>
+		<integer>869</integer>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Вишну Сахасранам</string>
+		<key>duration</key>
+		<integer>1139</integer>
+	</dict>
+</array>
+</plist>
